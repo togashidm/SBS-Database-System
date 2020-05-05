@@ -9,10 +9,10 @@ The database also contains Views that allow the client to quickly access the mos
 In summary, the database was designed using MySQL to attend the most of the needs of a Car and Motorcycle Selling company in a quick, robust and effective way. (Team: Robert Dolan – Richard Moloney – Denisio Togashi – Thomas Nugent)
 
 ## 2. Entity-relationship diagram
-
+<p align="center"><img src="/erd.jpg"></p>
 
 ## 3. Database Structure
-
+<p align="center"><img src="/DatabaseStructure.png"></p>
 
 ## 4. Database Functionalities
 * The database is designed to collection data and stores it in useful tables that the client can use.
